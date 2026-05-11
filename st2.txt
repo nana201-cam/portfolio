@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Stage DELSSI</title>
+
+<style>
+body{
+  font-family: Arial;
+  background:#071028;
+  color:#e6eef8;
+  margin:0;
+  padding:40px;
+}
+
+.container{
+  max-width:900px;
+  margin:auto;
+}
+
+h1{
+  color:#60a5fa;
+}
+
+.section{
+  margin-top:30px;
+}
+
+.card{
+  background:#0e1625;
+  padding:20px;
+  border-radius:10px;
+  margin-top:15px;
+}
+
+ul{
+  margin-left:20px;
+}
+
+.badge{
+  display:inline-block;
+  background:#60a5fa;
+  color:white;
+  padding:5px 10px;
+  border-radius:8px;
+  margin:5px;
+  font-size:14px;
+}
+
+.btn{
+  display:inline-block;
+  margin-top:10px;
+  padding:10px 15px;
+  border:1px solid #60a5fa;
+  border-radius:8px;
+  text-decoration:none;
+  color:white;
+}
+
+.btn:hover{
+  background:#60a5fa;
+}
+
+img{
+  width:100%;
+  border-radius:10px;
+  margin-top:10px;
+}
+</style>
+</head>
+
+<body>
+
+<div class="container">
+
+<h1>Stage Développeur Web — DELSSI</h1>
+
+<p>📍 3 Avenue Antoine Pinay, Hem</p>
+<p>📅 2 Juin 2025 - 11 Juillet 2025</p>
+
+<!-- Présentation -->
+<div class="section">
+<h2>Présentation</h2>
+<div class="card">
+<p>
+DELSSI est une société de service informatique spécialisée dans la conception et le développement d'applications métiers.
+</p>
+<p>
+Durant ce stage, j'ai travaillé sur la refonte de l'interface du site web <strong>Avianor</strong>, une entreprise également détenue par le gérant de DELSSI.
+</p>
+</div>
+</div>
+
+<!-- Missions -->
+<div class="section">
+<h2>Missions réalisées</h2>
+<div class="card">
+<ul>
+<li>Mise en place d'un environnement WordPress en local</li>
+<li>Gestion de plugins WordPress</li>
+<li>Gestion sécurisée de plugins commerciaux</li>
+<li>Rédaction d'une politique de confidentialité</li>
+</ul>
+</div>
+</div>
+
+<!-- Compétences -->
+<div class="section">
+<h2>Langages et Outils</h2>
+<div class="card">
+
+<span class="badge">HTML</span>
+<span class="badge">CSS</span>
+<span class="badge">JavaScript</span>
+<span class="badge">WordPress</span>
+<span class="badge">PHP</span>
+<span class="badge">VS Code</span>
+<span class="badge">Docker</span>
+
+</div>
+</div>
+
+<!-- Captures -->
+<div class="section">
+<h2>Captures d'écran</h2>
+<div class="card">
+
+<p>Dashboard client</p>
+<img src="images/dashboard.png" alt="dashboard">
+
+<p>Mise en page responsive</p>
+<img src="images/responsive.png" alt="responsive">
+
+<p>Interface Portainer</p>
+<img src="images/portainer.png" alt="portainer">
+
+</div>
+</div>
+
+<!-- Documents -->
+<div class="section">
+<h2>Documents et preuves</h2>
+<div class="card">
+
+<a href="docs/compte-rendu.pdf" target="_blank" class="btn">Compte-rendu</a>
+<br>
+
+<a href="docs/documentation.pdf" target="_blank" class="btn">Documentation</a>
+<br>
+
+<a href="docs/attestation.pdf" target="_blank" class="btn">Attestation 🔒</a>
+
+</div>
+</div>
+
+</div>
+
+</body>
+</html>

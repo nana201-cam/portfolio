@@ -1,0 +1,48 @@
+4. Trame pour l’oral E5 (simple, efficace et fluide)
+Introduction
+« Bonjour, je vais vous présenter une réalisation professionnelle portant sur la mise en place de GLPI, un outil de gestion des tickets utilisé pour centraliser les demandes d’assistance. »
+
+1. Contexte
+Besoin d’un outil de support structuré
+
+Choix de GLPI pour sa conformité ITIL
+
+Objectif : améliorer la gestion des incidents
+
+2. Travail réalisé
+Installation et configuration de GLPI
+
+Structuration des catégories ITIL
+
+Mise en place des profils et habilitations
+
+Configuration du collecteur de mails
+
+Mise en place des SLA
+
+Réalisation des tests d’intégration et d’acceptation
+
+Création d’un guide utilisateur
+
+3. Compétences mobilisées
+Gestion du patrimoine informatique
+
+Support aux utilisateurs
+
+Déploiement de services
+
+Tests et validation
+
+Accompagnement utilisateur
+
+4. Résultats
+Automatisation de la création de tickets
+
+Meilleure traçabilité
+
+Amélioration du suivi des interventions
+
+Service opérationnel et documenté
+
+Conclusion
+« Cette réalisation m’a permis de développer des compétences techniques et organisationnelles essentielles pour le métier de technicien support. »
